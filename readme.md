@@ -1,6 +1,6 @@
 ##Muhammad Asif Portfolio##
 
-Live preview : https://motasimfoad.com
+Live preview : https://asifibupoto.github.io/asif/
 
 Technologies used : ReactJS, EmailJS, ParticleJS, Bootstrap
 
