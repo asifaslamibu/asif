@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1c98d451efa72257c4b5b029120f6f0",
+    "revision": "a0d54fba71d52d66bba9fc571d4dbaf7",
     "url": "/asif/index.html"
   },
   {
-    "revision": "13acd23ffebc5be4b8c4",
+    "revision": "3f9877d904af616f71fe",
     "url": "/asif/static/css/2.4334786b.chunk.css"
   },
   {
-    "revision": "4ba852363e9b73f0e1c9",
-    "url": "/asif/static/css/main.95d7a999.chunk.css"
+    "revision": "6e16f16d871919f1b06b",
+    "url": "/asif/static/css/main.f218c9e5.chunk.css"
   },
   {
-    "revision": "13acd23ffebc5be4b8c4",
-    "url": "/asif/static/js/2.0c13509b.chunk.js"
+    "revision": "3f9877d904af616f71fe",
+    "url": "/asif/static/js/2.dbd937a1.chunk.js"
   },
   {
-    "revision": "4ba852363e9b73f0e1c9",
-    "url": "/asif/static/js/main.54df1458.chunk.js"
+    "revision": "6e16f16d871919f1b06b",
+    "url": "/asif/static/js/main.4ad25d29.chunk.js"
   },
   {
     "revision": "f3805a21d8a3b5c8ef50",
