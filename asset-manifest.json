@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/asif/static/css/main.95d7a999.chunk.css",
+    "main.js": "/asif/static/js/main.54df1458.chunk.js",
+    "main.js.map": "/asif/static/js/main.54df1458.chunk.js.map",
+    "runtime-main.js": "/asif/static/js/runtime-main.f40294d9.js",
+    "runtime-main.js.map": "/asif/static/js/runtime-main.f40294d9.js.map",
+    "static/css/2.4334786b.chunk.css": "/asif/static/css/2.4334786b.chunk.css",
+    "static/js/2.0c13509b.chunk.js": "/asif/static/js/2.0c13509b.chunk.js",
+    "static/js/2.0c13509b.chunk.js.map": "/asif/static/js/2.0c13509b.chunk.js.map",
+    "index.html": "/asif/index.html",
+    "precache-manifest.14a1dabb70bbd6596f68241b3f77a702.js": "/asif/precache-manifest.14a1dabb70bbd6596f68241b3f77a702.js",
+    "service-worker.js": "/asif/service-worker.js",
+    "static/css/2.4334786b.chunk.css.map": "/asif/static/css/2.4334786b.chunk.css.map",
+    "static/css/main.95d7a999.chunk.css.map": "/asif/static/css/main.95d7a999.chunk.css.map",
+    "static/media/cv.png": "/asif/static/media/cv.692e2507.png",
+    "static/media/cv1.png": "/asif/static/media/cv1.e7f1956e.png",
+    "static/media/cv2.png": "/asif/static/media/cv2.4c1cba5f.png",
+    "static/media/cv3.png": "/asif/static/media/cv3.2da239b5.png",
+    "static/media/cv4.png": "/asif/static/media/cv4.fdf35f0a.png",
+    "static/media/foad35.png": "/asif/static/media/foad35.e3fc8c5d.png",
+    "static/media/style.css": "/asif/static/media/foad_logo.0a04cd22.jpg",
+    "static/media/git.svg": "/asif/static/media/git.c31b5069.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f40294d9.js",
+    "static/css/2.4334786b.chunk.css",
+    "static/js/2.0c13509b.chunk.js",
+    "static/css/main.95d7a999.chunk.css",
+    "static/js/main.54df1458.chunk.js"
+  ]
+}
