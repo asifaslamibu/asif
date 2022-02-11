@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0d54fba71d52d66bba9fc571d4dbaf7",
+    "revision": "8e03274bc3de00514df6933ff6b90bef",
     "url": "/asif/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asif/static/css/2.4334786b.chunk.css"
   },
   {
-    "revision": "6e16f16d871919f1b06b",
+    "revision": "6f0a48575be9386603b7",
     "url": "/asif/static/css/main.f218c9e5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/asif/static/js/2.dbd937a1.chunk.js"
   },
   {
-    "revision": "6e16f16d871919f1b06b",
-    "url": "/asif/static/js/main.4ad25d29.chunk.js"
+    "revision": "6f0a48575be9386603b7",
+    "url": "/asif/static/js/main.bf13b0c2.chunk.js"
   },
   {
     "revision": "f3805a21d8a3b5c8ef50",
