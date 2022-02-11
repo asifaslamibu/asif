@@ -42,7 +42,7 @@ class Email_Form extends React.Component {
     
     let templateParams = {
       from_name: email,
-      to_name: 'motasimfoad@gmail.com',
+      to_name: 'muhammad1111asif@gmail.com',
       subject: subject,
       message_html: message,
      }
